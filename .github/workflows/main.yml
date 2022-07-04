@@ -13,7 +13,7 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-        with:
+        with: 
           github_user_name: PauloGabrielB
           svg_out_path: dist/github-contribution-grid-snake.svg
 
