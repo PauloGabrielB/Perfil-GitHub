@@ -11,4 +11,8 @@
   <img align="center" alt="PG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+   ![Snake animation](https://github.com/PauloGabrielB/PauloGabrielB/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
