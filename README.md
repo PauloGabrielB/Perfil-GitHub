@@ -1,4 +1,4 @@
-## Ooi me chamo Paulo Gabriel e sou Desenvolvedor Web !
+## Oi me chamo Paulo Gabriel e sou Desenvolvedor Web !
 
 <div align="center">
   <a href="https://github.com/PauloGabrielB">
