@@ -6,6 +6,8 @@
 
 <br><br/>
 
+## my toolls :
+
 <div align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -19,8 +21,10 @@
 
 <br><br/>
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
+
+## Visitors Count :
+
+<div align="center">  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{paulogabrielb}/count.svg" /></p> 
 <br>
 </div>
