@@ -25,7 +25,7 @@
 ## Visitors Count :
 
 <div align="center">  
-<p color="yellow" align="center"><img align="center" src="https://profile-counter.glitch.me/{paulogabrielb}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{paulogabrielb}/count.svg" /></p> 
 <br>
 </div>
 
